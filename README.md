@@ -1,6 +1,7 @@
 # HR_Analytics_Dashboard
 Based on the HR Analytics Dashboard provided in the PDF, I can offer several professional insights:
 Attrition Overview:
+
 The company has 1,470 employees, with 237 cases of attrition, which is a significant number.
 This suggests an attrition rate of about 16%, which is relatively high and may be a cause for concern.
 
